@@ -1,0 +1,14 @@
+{
+  "name": "Mystora",
+  "short_name": "Mystora",
+  "start_url": "/mystora-app/",
+  "scope": "/mystora-app/",
+  "display": "standalone",
+  "background_color": "#07061A",
+  "theme_color": "#07061A",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "/mystora-app/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/mystora-app/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
